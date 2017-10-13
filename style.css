@@ -181,9 +181,7 @@ body {
 footer {
     flex-shrink: 0
 }
-.content-wrapper {
-    flex: 1 0 auto
-}
+
 .container {
     padding-right: 0;
     padding-left: 0;
