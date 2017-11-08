@@ -134,9 +134,10 @@ $(document).ready(function() {
     /*	GO TO TOP
     /*-----------------------------------------------------------------------------------*/
     $.scrollUp({
-        scrollName: 'scrollUp',
+        scrollName: 'scrollUp1',
         // Element ID
         scrollDistance: 300,
+        
         // Distance from top/bottom before showing element (px)
         scrollFrom: 'top',
         // 'top' or 'bottom'
